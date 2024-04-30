@@ -48,7 +48,7 @@ public class PizzaController {
         pizza = pizzaRepository.save(pizza);
         return pizza;
     }
-
+//
     @DeleteMapping("/deletarpizza/{idPizza}")
     public Pizza deletar(@PathVariable long idPizza){
         Pizza pizza = findById(idPizza);
