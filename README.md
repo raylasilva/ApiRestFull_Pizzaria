@@ -39,3 +39,5 @@ Copy code
 git clone https://github.com/seu_usuario/pizzaria-api.git
 
 A API estará disponível em http://localhost:8080.
+
+Postman: https://blue-robot-856861.postman.co/workspace/New-Team-Workspace~d4184eaf-0c45-4408-94a1-8c945a89a8c0/collection/34384678-9265811c-0b90-4678-8949-e5161a4968fa?action=share&creator=34384678
